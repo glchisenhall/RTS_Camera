@@ -32,6 +32,10 @@
 
 **Gary Chisenhall**
   - [GitHub](https://github.com/glchisenhall)
+  - [Steam](https://steamcommunity.com/id/gchisenhall/)
+  - [Facebook](https://www.facebook.com/garyleechisenhalljr)
+  - [Twitter](https://twitter.com/ChisenhallGary)
+  - [Twitch](https://www.twitch.tv/sou77e55one)
   -----
 ### Forked from:
 - **densylkin** - RTS_Camera
