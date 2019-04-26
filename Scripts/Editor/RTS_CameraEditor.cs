@@ -25,7 +25,7 @@ namespace RTS_Cam
         public override void OnInspectorGUI()
         {
             //base.OnInspectorGUI();
-            Undo.RecordObject(camera, "RTS_CAmera");
+            Undo.RecordObject(camera, "RTS_Camera");
             tabs.Draw();
             if (GUI.changed)
                 camera.lastTab = tabs.curMethodIndex;
@@ -86,7 +86,7 @@ namespace RTS_Cam
             }
 
             GUILayout.Label("Follow target", EditorStyles.boldLabel);
-            camera.targetFollow = EditorGUILayout.ObjectField("Target to follow: ", camera.targetFollow, typeof(Transform)) as Transform;
+            camera.targetFollow = EditorGUILayout.ObjectField("Target to follow: ", camera.targetFollow, typeof(Transform), true) as Transform;
             camera.targetOffset = EditorGUILayout.Vector3Field("Target offset: ", camera.targetOffset);
             camera.followingSpeed = EditorGUILayout.FloatField("Following speed: ", camera.followingSpeed);
         }
