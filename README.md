@@ -1,4 +1,4 @@
-![RTS Camera](Editor/images/altx_icon_64.png) **RTS Camera** 
+![RTS Camera](Editor/images/altx_icon_64.png) **RTS Camera**
 
 RTS Camera Asset for Unity
 
@@ -27,5 +27,5 @@ RTS Camera Asset for Unity
   - [https://github.com/densylkin/RTS_Camera](https://github.com/densylkin/RTS_Camera)
 
 #### 2D Patch:
-  - **densylkin** - RTS_Camera
-    - [https://github.com/densylkin/RTS_Camera](https://github.com/densylkin/RTS_Camera)
+  - **codemnky** - RTS_Camera
+    - [https://github.com/codemnky/RTS_Camera](https://github.com/codemnky/RTS_Camera)
