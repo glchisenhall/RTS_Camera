@@ -1,4 +1,4 @@
-# **RTS Camera** ![icon](RTS_CAM_ICON_128.png)
+# [![RTS Camera](RTS_CAM_BANNER.png)](https://github.com/altered-existence/RTS_Camera)
 ### RTS Camera Asset for Unity
 
 -----
