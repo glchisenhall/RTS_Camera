@@ -95,6 +95,11 @@ namespace RTS_Cam
         {
             using (new HorizontalBlock())
             {
+                GUILayout.Label("Is Mobile?");
+                camera.isMobile = EditorGUILayout.Toggle(camera.isMobile);
+            }
+            using (new HorizontalBlock())
+            {
                 GUILayout.Label("Keyboard input: ", EditorStyles.boldLabel, GUILayout.Width(170f));
                 camera.useKeyboardRotation = EditorGUILayout.Toggle(camera.useKeyboardRotation);
             }
