@@ -32,8 +32,8 @@
 
   -----
 ### Forked from:
-- **Topher Lee** - RTS_Camera
-  - [http://topherlee513.github.io/](http://topherlee513.github.io/)
+- **Altered Existence** - RTS_Camera
+  - [https://altered-existence.github.io/](https://altered-existence.github.io/)
 #### Initially Forked from:
 - **densylkin** - RTS_Camera
   - [https://github.com/densylkin/RTS_Camera](https://github.com/densylkin/RTS_Camera)
